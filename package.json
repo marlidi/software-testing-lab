@@ -1,0 +1,16 @@
+{
+  "name": "software-testing-lab",
+  "version": "1.0.0",
+  "description": "Автоматизовані тести сайту madebymary.pl (Playwright)",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}
